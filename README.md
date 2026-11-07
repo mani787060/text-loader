@@ -247,6 +247,3 @@ By exploring this project, you can understand:
 - Generate embeddings using an embedding model.
 - Store document vectors using FAISS or Chroma.
 - Build a question-answering system using retrieved document context.
-
----
-
